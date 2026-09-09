@@ -1,0 +1,5 @@
+Laptop 2100.00 5
+Mouse 24.99 1
+Headphones 13.00 1
+Phone 125.00 10
+Waterbottle 30.00 25
